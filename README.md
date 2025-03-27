@@ -13,7 +13,10 @@
 3. https://www.ventoy.net/cn/download.html
 4. 视频教学：[![YouTube](https://img.shields.io/badge/YouTube-123456?logo=youtube&labelColor=ff0000)](https://youtu.be/6FWyACrNQIg)
 [![Bilibili](https://img.shields.io/badge/Bilibili-123456?logo=bilibili&logoColor=fff&labelColor=fb7299)](https://www.bilibili.com/video/BV1DQXVYFENr)
-5. 具体的操作方法是:在安装器所在系统里输入 `ddd` 命令 方可调出安装菜单
+- 【第二集】https://youtu.be/RRBFc58SwXQ
+- https://www.bilibili.com/video/BV1gPXCYyEc2
+
+6. 具体的操作方法是:在安装器所在系统里输入 `ddd` 命令 方可调出安装菜单
    ![localhost lan - VMware ESXi 2025-03-20 10-14-45](https://github.com/user-attachments/assets/ddae80a0-9ff5-4d63-83b5-1f49da18b008)
 
 
@@ -24,6 +27,7 @@
 4. istoreos 在虚拟机上并没有安装器,因此本项目算是一种补充。（物理机安装istoreos就可以忽略本项目了）
 5. armbian 安装器 目前构建2种 一种是minimal 一种是标准版 较低配置的x86-64设备建议使用minimal 比如（wyse3040瘦客户机）
 6. 未来可能融入自编译armbian的流程
+7. 支持自定义openwrt镜像生成iso安装器,其中openwrt镜像的压缩包格式是`img.gz` `img.zip` `img.xz`三种
 
 
 
